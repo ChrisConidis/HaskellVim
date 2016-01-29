@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/cc/dev/214/server/models'
+let g:netrw_dirhist_2='/home/cc/dev/214/client/js/lessons'
+let g:netrw_dirhist_3='/home/cc/dev/214/client/views/lessons'
+let g:netrw_dirhist_4='/home/cc/dev/214/client/js/controllers'
+let g:netrw_dirhist_5='/home/cc/dev/214/server'
